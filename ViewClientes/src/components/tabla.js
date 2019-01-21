@@ -36,7 +36,6 @@ class Tabla extends Component{
                     
                 }
             )
-            //console.log(clientes);
         });
     }
 
